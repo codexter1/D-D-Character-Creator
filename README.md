@@ -25,3 +25,5 @@
 ### *Susan*  is a boy who never lived in a time where this was a good name for a boy, however, with his mother's name being Butch, his grandmother's name being Bobby, and no father in the picture, I guess that's just the way the Shtick is. Unlike the song by Johnny Cash, Susan didn't grow up to be tough. Instead he just plays so much D&D he forgot about the girls who laugh at him. Problem is, Susan has so many characters he cant keep track. And with each of these fictional instances forming a tiny piece of his identity, he cant afford to lose them or have their papers be ruined by the weight of time. Instead, Susan goes digital, and his forum name is "Bullets Whiskey Muscle Car".  
 
 ![alt text](https://github.com/codexter1/D-D-Character-Creator/blob/master/Wire.png)
+
+**Trello:** (https://trello.com/b/BxUJ9mNM/dd-character-wizard)
