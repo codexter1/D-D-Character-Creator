@@ -1,0 +1,11 @@
+.classnames div {
+  height:100px;
+  width: 120px;
+  border: solid white;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  float: left;
+  margin: 50px;
+}

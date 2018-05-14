@@ -1,0 +1,67 @@
+.racenames div {
+  height:100px;
+  width: 120px;
+  border: solid black;
+  border-width: thin;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  float: left;
+  margin: 55px;
+}
+
+.Dwarf {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://i2.wp.com/nerdarchy.com/wp-content/uploads/2017/06/dwarfminer.jpg?fit=564%2C798&ssl=1') no-repeat;
+  background-size: 120px 110px;
+}
+
+.Elf {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLTiHdgm43BPpGF4Vk2lhL-DQJaG6rsjvVapVNJxUNz1I9yGGXg') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Halfling {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFpQUQg1FH39qm_MsOg4gnkjInk8QcbqypX-1LtNwyAnsjVpEgNg') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Human {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIwYimja4lNaE69cwuq7oK4txTmuX_81eFFZ9xxD6McWEhYXz') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Dragonborn {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXZBYDAVLttmYMIMQBafgpMnzVbU2nXsL3Ze0KscaI4GrXjtW') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Gnome {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrhIJgjyvz0QQObj7vlOdLSwqLHDZhFPPdv-3YcdFFeLMjY9FmA') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Half-Elf {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiq_ouxw0F2iT-VJk2uSUVU7wQKzOp71eI3RCzM5TRH-2AZv6TfQ') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Half-Orc {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPExhfSqBfxARxURJUOdaVoQRGL8uFzaGB-2lxRR_K5A_tZIJ6Rw') no-repeat;
+  background-size: 126px 110px;
+}
+
+.Tiefling {
+  text-shadow: 2px 2px 20px white;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9cGZ057zRn_PhFOPBefCk3kFQhILW4sGVbrNtZL0NsIzwBgT') no-repeat;
+  background-size: 126px 110px;
+}

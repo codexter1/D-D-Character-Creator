@@ -1,0 +1,112 @@
+.optnav {
+  background: rgba(0,0,0,.9);
+  width: 1025px;
+  height: 60px;
+}
+
+/* all the link div boxes */
+.rniv {
+  display: block;
+  float: left;
+  background: grey;
+  height: 57px;
+  width: 140px;
+  border: solid black;
+  border-width: thin;
+  margin-right: 15.8px;
+  border-radius: 8px;
+}
+
+.cniv {
+  display: block;
+  float: left;
+  background: grey;
+  height: 57px;
+  width: 150px;
+  border: solid black;
+  border-width: thin;
+  margin-right: 15.8px;
+  border-radius: 8px;
+}
+
+.sniv {
+  display: block;
+  float: left;
+  background: grey;
+  height: 57px;
+  width: 160px;
+  border: solid black;
+  border-width: thin;
+  margin-right: 15.8px;
+  border-radius: 8px;
+}
+
+.aniv {
+  display: block;
+  float: left;
+  background: grey;
+  height: 57px;
+  width: 220px;
+  border: solid black;
+  border-width: thin;
+  margin-right: 15.8px;
+  border-radius: 8px;
+}
+
+.pniv {
+  display: block;
+  float: left;
+  background: grey;
+  height: 57px;
+  width: 280px;
+  border: solid black;
+  border-width: thin;
+  border-radius: 8px;
+}
+
+
+/* all the links styled */
+.racelnk {
+  background:;
+  color: rgba(135,0,0,1);
+  text-decoration: none;
+  margin: 30px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.classlnk {
+  background:;
+  color: rgba(135,0,0,1);
+  text-decoration: none;
+  margin: 32px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.spellslnk {
+  background:;
+  color: rgba(135,0,0,1);
+  text-decoration: none;
+  margin: 32px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.atrblnk {
+  background:;
+  color: rgba(135,0,0,1);
+  text-decoration: none;
+  margin: 32px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.proflnk {
+  background:;
+  color: rgba(135,0,0,1);
+  text-decoration: none;
+  margin: 44px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}

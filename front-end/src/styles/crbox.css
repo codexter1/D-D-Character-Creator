@@ -1,0 +1,8 @@
+.topbox {
+  position: absolute;
+  top: 18%;
+  left:9.8%;
+  height: /*96vh*/ 680px;
+  width: /*80vw*/ 1025px;
+  background: rgba(100,0,0,.9);
+}
